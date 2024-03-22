@@ -12,7 +12,7 @@ const Hero = () => {
               <h1
               // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
               >
-                Creative Frontend Developer<span>.</span>
+                Awesome Frontend Developer<span>.</span>
               </h1>
             </div>
             <p
