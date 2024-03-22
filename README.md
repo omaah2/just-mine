@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Omaah - Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Omaah's Pot](./src/assets/images/cover.png)
 
-## Available Scripts
+Welcome to my personal portfolio! This project showcases my frontend development skills and projects I've worked on. Feel free to explore the different sections to learn more about me and my work.
 
-In the project directory, you can run:
+## Technologies Used
 
-### `npm start`
+- React.js: A popular JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for rapidly styling web applications.
+- React Router: A library for managing routing and navigation in a React application.
+- Framer Motion: A motion library for creating smooth animations and transitions.
+- React Icons: A library providing a wide range of icons for your projects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Responsive design: The portfolio is fully responsive to ensure a seamless experience on different devices.
+- Smooth animations: Framer Motion is used to add elegant animations and transitions.
+- Easy navigation: React Router allows for smooth navigation between different sections of the portfolio.
+- Project showcase: A dedicated section to showcase my projects with descriptions and links.
+- Contact information: Users can easily get in touch with me through provided contact details.
 
-### `npm test`
+## Installation and Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the project directory: `cd ....`.
+3. Install project dependencies using `npm install`.
+4. Start the development server: `npm run dev`.
+5. Open your web browser and navigate to `http://localhost:5173` to view the portfolio.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feel free to customize this portfolio to showcase your own projects and skills. Update the project descriptions, images, and links to match your work.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you have any questions or would like to get in touch, you can reach me at:
 
-### `npm run eject`
+- Email: ummkhaladoluwatosin@gmail.com
+- GitHub: [Vitorola-coder](https://github.com/omaah2)
+-
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Thank you for visiting my portfolio!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Todos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- add few smooth animation.
+- 404 page - done ✔✔
+- more features yet to come.
