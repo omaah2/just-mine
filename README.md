@@ -37,7 +37,7 @@ Feel free to customize this portfolio to showcase your own projects and skills. 
 If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: ummkhaladoluwatosin@gmail.com
-- GitHub: [Vitorola-coder](https://github.com/omaah2)
+- GitHub: [Omaah](https://github.com/omaah2)
 -
 
 Thank you for visiting my portfolio!
