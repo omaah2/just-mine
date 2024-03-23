@@ -40,7 +40,7 @@ const Experience = () => {
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
                   Web Developer Intructor <span>-</span> &nbsp;
-                  <span className="italic text-[#FFFFFF99]">2020- 2021</span>
+                  <span className="italic text-[#FFFFFF99]">2022- 2023</span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
